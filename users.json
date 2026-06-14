@@ -3,7 +3,9 @@
     "owners": [
       "SUPERADMIN_AX52TR21_OJK0GW5E"
     ],
-    "partners": [],
+    "partners": [
+      "PARTNER_MQDYVT5T_7LE9PPAB"
+    ],
     "resellers": [],
     "members": []
   },
@@ -44,7 +46,8 @@
     "MEMBER_MQDWAW96_ZRDNDP6Z": 1,
     "OWNER_MQDWC3KT_E2A08EU0": 10,
     "PARTNER_MQDY7844_T5K04546": 15,
-    "RESELLER_MQDYI51K_MDEVSCYC": 5
+    "RESELLER_MQDYI51K_MDEVSCYC": 5,
+    "PARTNER_MQDYVT5T_7LE9PPAB": 15
   },
   "usernames": {
     "2076952351": "NamzOfficial",
