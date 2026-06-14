@@ -7,7 +7,9 @@
       "PARTNER_MQDYVT5T_7LE9PPAB"
     ],
     "resellers": [],
-    "members": []
+    "members": [
+      "MEMBER_MQDYY4TP_D0TUI4ZO"
+    ]
   },
   "credits": {
     "2076952351": 0,
@@ -47,7 +49,8 @@
     "OWNER_MQDWC3KT_E2A08EU0": 10,
     "PARTNER_MQDY7844_T5K04546": 15,
     "RESELLER_MQDYI51K_MDEVSCYC": 5,
-    "PARTNER_MQDYVT5T_7LE9PPAB": 14
+    "PARTNER_MQDYVT5T_7LE9PPAB": 14,
+    "MEMBER_MQDYY4TP_D0TUI4ZO": 1
   },
   "usernames": {
     "2076952351": "NamzOfficial",
