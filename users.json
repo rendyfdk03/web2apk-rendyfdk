@@ -6,7 +6,9 @@
     "partners": [
       "PARTNER_MQDYVT5T_7LE9PPAB"
     ],
-    "resellers": [],
+    "resellers": [
+      "RESELLER_MQDYZ2GB_TKJCZI00"
+    ],
     "members": [
       "MEMBER_MQDYY4TP_D0TUI4ZO"
     ]
@@ -50,7 +52,8 @@
     "PARTNER_MQDY7844_T5K04546": 15,
     "RESELLER_MQDYI51K_MDEVSCYC": 5,
     "PARTNER_MQDYVT5T_7LE9PPAB": 14,
-    "MEMBER_MQDYY4TP_D0TUI4ZO": 1
+    "MEMBER_MQDYY4TP_D0TUI4ZO": 1,
+    "RESELLER_MQDYZ2GB_TKJCZI00": 5
   },
   "usernames": {
     "2076952351": "NamzOfficial",
